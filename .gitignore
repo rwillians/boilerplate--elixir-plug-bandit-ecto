@@ -1,0 +1,11 @@
+/.elixir_ls/
+/_build/
+.fetch/
+/cover/
+/deps/
+/tmp/
+/doc/
+*.ez
+.DS_Store
+erl_crash.dump
+workflowing-*.tar
